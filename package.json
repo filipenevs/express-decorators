@@ -1,0 +1,8 @@
+{
+  "name": "express-decorators",
+  "version": "0.1.0",
+  "description": "Using Decorators in Express.JS",
+  "main": "src/index.ts",
+  "author": "Filipe Neves <filipe.nevser@gmail.com>",
+  "license": "MIT"
+}
